@@ -2,3 +2,7 @@ h1 {
 	text-align: center;
 	font-family: 'Montserrat', serif; font-weight: 700;
 }
+
+.jumbotron {
+	height: 500px;
+}
