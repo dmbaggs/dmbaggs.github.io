@@ -6,12 +6,3 @@ h1 {
 .jumbotron {
 	height: 250px;
 }
-
-.col-md-4 {
-	border: 5px solid black;
-}	
-
-#id-1 {
-	width: 250px;
-	height: 200px;
-}
