@@ -6,3 +6,8 @@ h1 {
 .jumbotron {
 	height: 250px;
 }
+
+.nav-pills {
+	color: green;
+	border-radius: 0;
+}
