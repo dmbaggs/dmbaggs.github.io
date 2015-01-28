@@ -11,3 +11,7 @@ h1 {
 	color: green;
 	border-radius: 0;
 }
+
+nav {
+	float: left;
+}
