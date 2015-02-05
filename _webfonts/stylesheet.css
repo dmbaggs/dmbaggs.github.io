@@ -10,17 +10,3 @@
     font-style: normal;
 
 }
-
-h1 {
-	text-align: center;
-	font-family: 'League Spartan', serif; font-weight: 700;
-}
-
-.jumbotron {
-	height: 250px;
-}
-
-.nav-pills {
-	color: green;
-	border-radius: 0;
-}
