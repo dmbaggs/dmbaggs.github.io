@@ -16,6 +16,11 @@
 	font-family: 'League Spartan', serif; font-weight: bold;
 }
 
+.jumbotron h2 {
+	text-align: center;
+	font-family: 'League Spartan', serif; font-weight: bold;
+	font-size: 50px;
+}
 
 
 .nav-pills {
