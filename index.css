@@ -30,4 +30,5 @@
 .nav-bottom li {
   display: inline;
   float:right;
+  margin-left: 25px;
 }
