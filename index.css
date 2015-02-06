@@ -11,14 +11,12 @@
 
 }
 
-h1 {
+.jumbotron h1 {
 	text-align: center;
-	font-family: 'League Spartan', serif; font-weight: 700;
+	font-family: 'League Spartan', serif; font-weight: bold;
 }
 
-.jumbotron {
-	height: 250px;
-}
+
 
 .nav-pills {
 	color: green;
