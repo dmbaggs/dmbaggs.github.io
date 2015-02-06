@@ -23,7 +23,6 @@
 }
 
 
-.nav-pills {
-	color: green;
-	border-radius: 0;
+.nav li {
+  display: inline;
 }
