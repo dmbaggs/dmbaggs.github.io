@@ -22,6 +22,12 @@
 	font-size: 50px;
 }
 
-.nav li {
+.nav-top li {
   display: inline;
+  float: left;
+}
+
+.nav-bottom li {
+  display: inline;
+  float:right;
 }
