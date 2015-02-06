@@ -14,6 +14,7 @@
 .jumbotron h1 {
 	text-align: center;
 	font-family: 'League Spartan', serif; font-weight: bold;
+	background-image: "jumbo2.jpeg";
 }
 
 .nav-top li {
