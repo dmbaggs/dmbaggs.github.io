@@ -25,10 +25,14 @@
 .nav-top li {
   display: inline;
   float: left;
+  font-family: 'League Spartan', serif; font-weight: bold;
+  font-size: 25px;
 }
 
 .nav-bottom li {
   display: inline;
   float:right;
   margin-left: 25px;
+  font-family: 'League Spartan', serif; font-weight: bold;
+  font-size: 25px;
 }
