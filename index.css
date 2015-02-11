@@ -17,11 +17,16 @@
   font-style: normal;
 }
 
+.nav-right {
+  margin-top: 100px;
+}
+
 .nav-right p {
   font-family: 'league spartan';
   font-weight: bold;
   font-style: normal;
 }
+
 
 .jumbotron h1 {
 	text-align: center;
