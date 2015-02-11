@@ -26,8 +26,14 @@
   width: 100%;
 }
 
+.jumbotron img {
+  position: relative;
+  z-index: 500;
+}
+
 .jumbotron h1 {
   position: relative;
+  z-index: 9999;
   font-family: 'league spartan';
   font-weight: bold;
   font-style: normal;
