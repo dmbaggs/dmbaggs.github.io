@@ -24,3 +24,9 @@
 .jumbotron {
   width: 100%;
 }
+
+.jumbotron h1 {
+  font-family: 'league spartan';
+  font-weight: bold;
+  font-style: normal;
+}
