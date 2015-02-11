@@ -11,8 +11,8 @@
 
 }
 
-.jumbotron {
-  width: 100%;
+.nav {
+  margin-top: 50px;
 }
 
 .nav h1 {
@@ -27,7 +27,6 @@
   font-style: normal;
 }
 
-.caption p {
-	text-align: center;
-	font-family: 'League Spartan', serif; font-weight: bold;
+.jumbotron {
+  width: 100%;
 }
