@@ -11,13 +11,16 @@
 
 }
 
-.contain-all {
-  margin-left: 50px;
-  margin-right: 50px;
-
+.nav-left h1 {
+  font-family: 'league spartan';
+  font-weight: bold;
+  font-style: normal;
 }
 
-
+.nav-right p {
+  font-family: 'league spartan';
+  font-weight: bold;
+  font-style: normal;
 }
 
 .jumbotron h1 {
