@@ -22,10 +22,12 @@
 }
 
 .jumbotron {
+  position: relative;
   width: 100%;
 }
 
 .jumbotron h1 {
+  position: relative;
   font-family: 'league spartan';
   font-weight: bold;
   font-style: normal;
