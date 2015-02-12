@@ -10,12 +10,10 @@
     font-style: normal;
 
 }
-
-.nav {
-  margin-top: 25px;
+#name{
+  padding-left: 5%;
 }
-
-.nav p {
+.navigation {
   font-family: 'league spartan';
   font-weight: bold;
   font-style: normal;
@@ -27,17 +25,16 @@
 }
 
 .jumbotron img {
-  position: relative;
-  z-index: 500;
+  position: absolute;
 }
 
 .jumbotron h1 {
   position: relative;
   z-index: 9999;
-  bottom: 450px;
+  margin-top: 25%;
+  padding-bottom: 35%; 
   font-family: 'league spartan';
   font-weight: bold;
   font-style: normal;
-  font-size: 250px;
-
+  font-size: 250%;
 }
