@@ -19,16 +19,16 @@
   font-style: normal;
 }
 
-.jumbotron {
+.mainmenu {
   position: relative;
   width: 100%;
 }
 
-.jumbotron img {
+.mainmenu img {
   position: absolute;
 }
 
-.jumbotron h1 {
+.mainmenu h1 {
   position: relative;
   z-index: 9999;
   margin-top: 25%;
