@@ -24,7 +24,8 @@
   width: 100%;
 }
 
-.mainmenu img {
+#bigphoto {
+  width: 100%;
   position: absolute;
 }
 
