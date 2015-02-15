@@ -11,12 +11,7 @@
 
 }
 
-.contain-all { 
-    background-image: url('layout.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center; 
-}
+
 #name{
   padding-left: 5%;
 }
