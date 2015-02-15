@@ -10,6 +10,13 @@
     font-style: normal;
 
 }
+
+.contain-all { 
+    background-image: url('layout.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
 #name{
   padding-left: 5%;
 }
@@ -22,10 +29,6 @@
 .mainmenu {
   position: relative;
   width: 100%;
-}
-
-#bigphoto {
-  position: absolute;
 }
 
 .mainmenu h1 {
