@@ -29,12 +29,7 @@
 .mainmenu {
   position: relative;
   width: 100%;
-}
-
-#bigphoto {
-  position: absolute;
-  width: 100%;
-}
+} 
 
 .mainmenu h1 {
   position: relative;
