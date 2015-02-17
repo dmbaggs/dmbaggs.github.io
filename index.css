@@ -31,7 +31,6 @@ div .uno .dos .tres .quatro {
 
 
 .contain-all { 
-    background-image: url('layout.jpg');
     background-repeat: no-repeat;
     background-attachment: absolute;
     background-position: center; 
