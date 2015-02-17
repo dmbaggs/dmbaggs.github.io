@@ -12,11 +12,6 @@
 }
 
 /* painting divs */
-
-.contain-all {
-  border: 2px solid blue;
-}
-
 .row {
   border-radius: 2px solid red;
 }
