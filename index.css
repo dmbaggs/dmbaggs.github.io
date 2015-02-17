@@ -11,6 +11,25 @@
 
 }
 
+/* painting divs */
+
+.contain-all {
+  border: 2px solid blue;
+}
+
+.row {
+  border-radius: 2px solid red;
+}
+
+div .uno .dos .tres .quatro {
+  border: 2px solid green;
+
+  /* end painting */
+}
+
+
+
+
 .contain-all { 
     background-image: url('layout.jpg');
     background-repeat: no-repeat;
