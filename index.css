@@ -16,13 +16,10 @@
   border-radius: 2px solid red;
 }
 
-div .uno .dos .tres .quatro {
+.block {
   border: 2px solid green;
-
-  /* end painting */
 }
-
-
+  /* end painting */
 
 
 .contain-all { 
