@@ -15,15 +15,20 @@
 } 
   /* end painting */
 
-.menucontain {
-  text-align: center;
-}
-
 .menu {
   height: 25px;
 }
 
+.menucontain {
+  text-align: center;
+  font-size: 18px;
+  color: blue;
+}
 
+#name {
+  font-size: 18px;
+  color: black;
+}
 
 .bigphoto h1 {
   text-align: center;
