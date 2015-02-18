@@ -1,29 +1,3 @@
-@font-face {
-    font-family: 'League Spartan';
-    src: url('leaguespartan-bold.eot');
-    src: url('leaguespartan-bold.eot?#iefix') format('embedded-opentype'),
-         url('leaguespartan-bold.woff2') format('woff2'),
-         url('leaguespartan-bold.woff') format('woff'),
-         url('leaguespartan-bold.ttf') format('truetype'),
-         url('leaguespartan-bold.svg#league_spartanbold') format('svg');
-    font-weight: bold;
-    font-style: normal;
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* painting divs */
 .row {
   border-radius: 2px solid red;
@@ -40,6 +14,11 @@
 } 
   /* end painting */
 
+
+.row {
+  margin-right: 0px;
+  margin-left: 0px;
+}
 
 
 .menucontain {
