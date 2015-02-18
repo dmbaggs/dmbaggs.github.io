@@ -27,20 +27,8 @@
 } 
   /* end painting */
 
-
-.contain-all { 
-    background-repeat: no-repeat;
-    background-attachment: absolute;
-    background-position: center; 
-}
-
 #name{
   padding-left: 5%;
-}
-.navigation {
-  font-family: 'league spartan';
-  font-weight: bold;
-  font-style: normal;
 }
 
 .mainmenu {
