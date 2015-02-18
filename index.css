@@ -1,7 +1,4 @@
 /* painting divs */
-.row {
-  border: 2px solid red;
-}
 
 .bigphoto {
   border: 2px solid yellow;
@@ -36,6 +33,7 @@
 
 .trio {
   text-align: center;
+  margin-top: 50px;
 }
 
 
