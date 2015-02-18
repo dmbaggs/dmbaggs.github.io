@@ -19,6 +19,14 @@
   text-align: center;
 }
 
+.menu {
+  height: 25px;
+}
+
+#menu {
+  font-size: 25px;
+}
+
 .bigphoto h1 {
   text-align: center;
 }
