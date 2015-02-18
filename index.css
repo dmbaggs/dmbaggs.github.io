@@ -11,6 +11,19 @@
 
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* painting divs */
 .row {
   border-radius: 2px solid red;
@@ -27,22 +40,16 @@
 } 
   /* end painting */
 
+
+
+.menucontain {
+  text-align: center;
+}
+
 #name{
   padding-left: 5%;
 }
 
-.mainmenu {
-  position: relative;
-  width: 100%;
-} 
 
-.mainmenu h1 {
-  position: relative;
-  z-index: 9999;
-  margin-top: 25%;
-  padding-bottom: 35%; 
-  font-family: 'league spartan';
-  font-weight: bold;
-  font-style: normal;
-  font-size: 250%;
-}
+
+
