@@ -1,6 +1,6 @@
 /* painting divs */
 .row {
-  border-radius: 2px solid red;
+  border: 2px solid red;
 }
 
 .block {
@@ -13,13 +13,6 @@
   background-color: yellow;
 } 
   /* end painting */
-
-
-.row {
-  margin-right: 0px;
-  margin-left: 0px;
-}
-
 
 .menucontain {
   text-align: center;
