@@ -1,12 +1,3 @@
-/* painting divs */
-
-.bigphoto {
-  border: 2px solid yellow;
-  background-color: yellow;
-  height: 500px;
-} 
-  /* end painting */
-
 .menu {
   height: 50px;
   background-color: gray;
@@ -23,6 +14,12 @@
   font-size: 18px;
   color: black;
 }
+
+.bigphoto {
+  border: 2px solid yellow;
+  background-color: yellow;
+  height: 600px;
+} 
 
 .bigphoto h1 {
   text-align: center;
