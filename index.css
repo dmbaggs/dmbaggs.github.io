@@ -14,11 +14,18 @@
 /* painting divs */
 .row {
   border-radius: 2px solid red;
+  background-color: red;
 }
 
 .block {
   border: 2px solid green;
+  background-color: green;
 }
+
+.bigphoto {
+  border: 2px solid yellow;
+  background-color: yellow;
+} 
   /* end painting */
 
 
