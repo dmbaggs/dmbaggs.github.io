@@ -7,7 +7,7 @@
   text-align: center;
   margin-top: 10px;
   font-size: 18px;
-  color: blue;
+  color: #3366cc;
 }
 
 #name {
@@ -23,7 +23,7 @@
 
 .bigphoto h1 {
   text-align: center;
-  color: blue;
+  color: #3366cc;
   margin-top: 15%;
   font-size: 100px;
 }
@@ -40,7 +40,7 @@
 
 #concon {
   text-align: center;
-  background-color: blue;
+  background-color: #3366cc;
 }
 
 #concon h1 {
