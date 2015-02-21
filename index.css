@@ -40,8 +40,10 @@
 
 #concon {
   text-align: center;
+  background-color: blue;
 }
 
 #concon h1 {
   font-size: 100px;
+  color: white;
 }
