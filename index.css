@@ -44,6 +44,11 @@
 }
 
 /* portfolio page */
+#foliocontain {
+  width: 90%;
+  text-align: center;
+}
+
 .contents {
   background-color: #3366cc;
   border: 1px solid black;
