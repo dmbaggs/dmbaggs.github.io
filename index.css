@@ -35,7 +35,8 @@
 
 .trio {
   text-align: center;
-  margin-top: 50px;
+  float: none;
+  margin:0 auto;
 }
 
 .trio h1 {
