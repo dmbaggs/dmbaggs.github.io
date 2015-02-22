@@ -40,6 +40,11 @@
   background-color: orange;
 }
 
+.trio h1 {
+  font-family: 'Oswald', Helvetica, serif;
+  font-weight: 700;
+}
+
 .trio img {
   text-align: center;
 }
