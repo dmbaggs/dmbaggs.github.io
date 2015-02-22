@@ -53,6 +53,8 @@
   border: 1px solid black;
   height: 250px;
   width: 250px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 /* connect page */
