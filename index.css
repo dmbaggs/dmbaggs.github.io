@@ -38,6 +38,8 @@
   text-align: center;
 }
 
+/* connect page */
+
 #concon {
   text-align: center;
   background-color: #3366cc;
@@ -45,5 +47,7 @@
 
 #concon h1 {
   font-size: 100px;
+  font-family: 'Oswald', Helvetica, serif;
+  font-weight: 400;
   color: #000000;
 }
