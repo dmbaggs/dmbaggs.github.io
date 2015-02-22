@@ -43,8 +43,13 @@
   font-weight: 700;
 }
 
-/* connect page */
+/* portfolio page */
+.contents {
+  background-color: #3366cc;
+  border: 1px solid black;
+}
 
+/* connect page */
 #concon {
   text-align: center;
   background-color: #3366cc;
