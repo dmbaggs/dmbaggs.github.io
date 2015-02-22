@@ -47,6 +47,8 @@
 .contents {
   background-color: #3366cc;
   border: 1px solid black;
+  height: 250px;
+  width: 250px;
 }
 
 /* connect page */
