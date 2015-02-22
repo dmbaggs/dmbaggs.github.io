@@ -37,20 +37,11 @@
 .trio {
   text-align: center;
   margin-top: 50px;
-  background-color: orange;
 }
 
 .trio h1 {
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 700;
-}
-
-.trio img {
-  text-align: center;
-}
-
-.footer {
-  text-align: center;
 }
 
 /* connect page */
