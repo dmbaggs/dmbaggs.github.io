@@ -51,12 +51,9 @@
   color: #3366cc;
 }
 
-#header h1 {
-  margin-top: 50px;
-}
-
 .folio {
   text-align: center;
+  margin-top: 50px;
 }
 
 .contents {
