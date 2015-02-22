@@ -12,6 +12,21 @@
   color: #3366cc;
 }
 
+.menucontain a:link {
+  color: #3366cc;
+  text-decoration: none;
+}
+
+.menucontain a:visited {
+  text-decoration: none;
+  color: #3366cc;
+}
+
+.menucontain a:hover {
+text-decoration: none;
+color: #3366cc;
+}
+
 #name {
   font-size: 18px;
   color: black;
