@@ -13,6 +13,8 @@
 #name {
   font-size: 18px;
   color: black;
+  font-family: 'Oswald', Helvetica, serif;
+  font-weight: 700;
 }
 
 .bigphoto {
@@ -25,6 +27,8 @@
   text-align: center;
   color: #3366cc;
   margin-top: 15%;
+  font-family: 'Oswald', Helvetica, serif;
+  font-weight: 700;
   font-size: 100px;
 }
 
