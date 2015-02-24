@@ -58,6 +58,10 @@
   font-weight: 700;
 }
 
+.end {
+  margin-top: 25px;
+}
+
 .mini-box {
   border: 1px solid black;
 }
