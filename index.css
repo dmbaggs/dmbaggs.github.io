@@ -58,26 +58,9 @@
   font-weight: 700;
 }
 
-.uno {
-  border: 2px solid green;
-  background-color: green;
+.mini-box {
+  border: 1px solid black;
 }
-
-.dos {
-  border: 2px solid blue;
-  background-color: blue;
-}
-
-.tres {
-  border: 2px solid yellow;
-  background-color: yellow;
-}
-
-.four {
-  border: 2px solid red;
-  background-color: red;
-}
-
 /* portfolio page */
 #header {
   text-align: center;
