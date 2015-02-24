@@ -48,6 +48,14 @@
   font-size: 100px;
 }
 
+.work {
+  margin-top: 25px;
+}
+
+.aboutme {
+  margin-top: 25px;
+}
+
 .mini-box {
   border: 1px solid black;
 }
