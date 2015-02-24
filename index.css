@@ -61,6 +61,11 @@
 .mini-box {
   border: 1px solid black;
 }
+
+.mini-box {
+  border: 1px solid black;
+  margin-top: 15px;
+}
 /* portfolio page */
 #header {
   text-align: center;
