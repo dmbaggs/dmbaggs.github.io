@@ -92,13 +92,15 @@
 
 
 /* ABOUT ME PAGE */
-#hello {
+
+.aboutmain {
+  text-align: center;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 700;
   color: #3366cc;
 }
-.aboutmain {
-  text-align: center;
+
+#mystory {
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 700;
   color: #3366cc;
