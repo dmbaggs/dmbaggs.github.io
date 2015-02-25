@@ -39,6 +39,11 @@
   height: 600px;
 } 
 
+@media (max-width: 980px) {
+  .bigphoto {
+    height: 400px;
+  }
+
 .bigphoto h1 {
   text-align: center;
   color: white;
