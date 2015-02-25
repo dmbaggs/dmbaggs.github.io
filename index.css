@@ -100,6 +100,14 @@
   color: #3366cc;
 }
 
+.aboutmain h1 {
+  font-size: 100px;
+}
+
+.aboutmain h2 {
+  font-size: 75px;
+}
+
 #mystory {
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 700;
