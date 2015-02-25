@@ -93,6 +93,10 @@
 
 /* ABOUT ME PAGE */
 
+.aboutrow {
+  margin-top: 25px;
+}
+
 .aboutmain {
   text-align: center;
   font-family: 'Oswald', Helvetica, serif;
