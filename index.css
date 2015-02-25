@@ -92,7 +92,11 @@
 
 
 /* ABOUT ME PAGE */
-
+.aboutmain h1 h2 h3{
+  font-family: 'Oswald', Helvetica, serif;
+  font-weight: 700;
+  color: #3366cc;
+}
 
 /* connect page */
 #concon {
