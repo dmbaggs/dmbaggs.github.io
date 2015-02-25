@@ -93,6 +93,7 @@
 
 /* ABOUT ME PAGE */
 .aboutmain {
+  text-align: center;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 700;
   color: #3366cc;
