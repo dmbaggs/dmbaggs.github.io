@@ -55,7 +55,7 @@
     </div> 
 
     <div class="row bigphoto">
-      <h1>I AM A ________</h1>
+      <h1>I AM A <span data-typer-targets="Designer, Strategist, blah">_______</span></h1>
     </div>
 
     <div class="row work">
@@ -91,6 +91,11 @@
         </div>
     </div>
 
+    <script>
+      $(function () {
+        $('[data-typer-targets]').typer();
+      });
+    </script>
 
   </body>
 </html>
