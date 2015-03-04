@@ -54,6 +54,12 @@
   font-size: 100px;
 }
 
+@media (max-width: 400px) {
+  .bigphoto h1 {
+    font-size: 50px;
+  }
+}
+
 .work {
   margin-top: 25px;
 }
