@@ -39,9 +39,9 @@
   height: 600px;
 } 
 
-@media screen (max-width: 980px) {
+@media (max-width: 980px) {
   .bigphoto {
-    height: 420px;
+    height: 400px;
   }
 }
 
