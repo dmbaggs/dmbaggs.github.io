@@ -139,7 +139,7 @@
   font-weight: 400;
 }
 
-@media screen (max-width: 400px) {
+@media (max-width: 400px) {
   #concon h1 {
     font-size: 50px;
   }
