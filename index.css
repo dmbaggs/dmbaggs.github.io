@@ -45,22 +45,22 @@
   }
 }
 
-.bigphoto h1 {
-  text-align: center;
-  color: white;
-  margin-top: 0%;
-  font-family: 'Oswald', Helvetica, serif;
-  font-weight: 400;
-  font-size: 75px;
-}
-
 .bigphoto h3 {
   text-align: center;
   color: white;
-  margin-top: 20%;
+  margin-top: 10%;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 300;
   font-size: 100px;
+}
+
+.bigphoto h1 {
+  text-align: center;
+  color: white;
+  margin-top: 10%;
+  font-family: 'Oswald', Helvetica, serif;
+  font-weight: 400;
+  font-size: 75px;
 }
 
 @media (max-width: 450px) {
