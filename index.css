@@ -54,6 +54,15 @@
   font-size: 100px;
 }
 
+.bigphoto h3 {
+  text-align: center;
+  color: white;
+  margin-top: 10%;
+  font-family: 'Oswald', Helvetica, serif;
+  font-weight: 700;
+  font-size: 100px;
+}
+
 @media (max-width: 450px) {
   .bigphoto h1 {
     font-size: 50px;
