@@ -50,8 +50,8 @@
   color: white;
   margin-top: 0%;
   font-family: 'Oswald', Helvetica, serif;
-  font-weight: 700;
-  font-size: 100px;
+  font-weight: 300;
+  font-size: 75px;
 }
 
 .bigphoto h3 {
@@ -59,7 +59,7 @@
   color: white;
   margin-top: 10%;
   font-family: 'Oswald', Helvetica, serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 100px;
 }
 
