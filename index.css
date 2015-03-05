@@ -54,6 +54,12 @@
   font-size: 100px;
 }
 
+@media (max-width: 900px) {
+  .bigphoto h3 {
+    font-size: 50px;
+  }
+}
+
 .bigphoto h1 {
   text-align: center;
   color: white;
@@ -63,9 +69,9 @@
   font-size: 75px;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 900px) {
   .bigphoto h1 {
-    font-size: 50px;
+    font-size: 40px;
   }
 }
 
