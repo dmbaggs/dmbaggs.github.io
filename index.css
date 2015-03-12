@@ -129,9 +129,15 @@
 #box {
   width: 250px;
   height: 250px;
-  margin: 1px solid black;
   background: green;
   margin-left: -25%
+}
+
+@media (max-width: 400px) {
+  #box {
+    width: 100px;
+    height: 100px;
+  }
 }
 
 .core {
