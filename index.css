@@ -89,13 +89,16 @@
 
 .work p {
   font-family: 'Oswald', Helvetica, serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 35px;
   width: 70%;
   margin-left: 10%;
 }
 
 .work h5 {
+  font-family: 'Oswald', Helvetica, serif;
+  font-weight: 400;
+  font-size: 25px;
   border: 2px solid #3366cc;
   border-radius: 2px;
   padding: 5px;
