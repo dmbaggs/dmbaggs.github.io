@@ -4,6 +4,13 @@
   margin-top: 1%;
 }
 
+@media (max-width: 400px) {
+  .menu {
+    text-align: right;
+    height: 100px;
+  }
+}
+
 .menucontain {
   text-align: center;
   margin-top: 10px;
@@ -11,6 +18,10 @@
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 300;
   color: #3366cc;
+}
+
+.moblow {
+  margin-top: 1%;
 }
 
 .menucontain a:link {
@@ -26,13 +37,6 @@
 .menucontain a:hover {
   text-decoration: none;
   color: #3366cc;
-}
-
-@media (max-width: 400px) {
-  .menu {
-    text-align: right;
-    height: 100px;
-  }
 }
 
 #name {
