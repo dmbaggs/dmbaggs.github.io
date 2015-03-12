@@ -84,7 +84,13 @@
 }
 
 .work {
-  margin-top: 25px;
+  margin-top: 5%;
+}
+
+.work p {
+  font-family: 'Oswald', Helvetica, serif;
+  font-weight: 300;
+  font-size: 50px;
 }
 
 #box {
