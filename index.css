@@ -87,6 +87,11 @@
   margin-top: 25px;
 }
 
+#box {
+  width: 250px;
+  height: 250px;
+}
+
 .aboutme {
   margin-top: 25px;
 }
