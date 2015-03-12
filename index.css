@@ -17,12 +17,18 @@
   margin-top: 3px;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 300px) {
   .menu {
     text-align: right;
-    height: 150px;
   }
 }
+
+@media (max-width: 400px) {
+  .moblow {
+    margin-top: 25px;
+  }
+}
+
 
 .menucontain a:link {
   color: #3366cc;
