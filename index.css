@@ -90,7 +90,7 @@
 .work p {
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 400;
-  font-size: 35px;
+  font-size: 30px;
   width: 70%;
   margin-left: 10%;
 }
@@ -102,7 +102,7 @@
   color: white;
   border: 2px solid #3366cc;
   background-color: #3366CC;
-  border-radius: 2px;
+  border-radius: 5px;
   padding: 9px;
   margin-left: 35%;
   margin-right: 53%;
