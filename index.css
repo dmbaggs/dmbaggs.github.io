@@ -29,7 +29,7 @@
 }
 
 @media (max-width: 400px) {
-  .menucontain {
+  .menu {
     text-align: right;
     height: 200px;
   }
