@@ -4,14 +4,6 @@
   margin-top: 10px;
 }
 
-@media (max-width: 300px) {
-  .menu {
-    text-align: right;
-    height: 500px;
-  }
-}
-
-
 .menucontain {
   text-align: center;
   margin-top: 10px;
@@ -24,13 +16,6 @@
 .moblow {
   margin-top: 3px;
 }
-
-@media (max-width: 400px) {
-  .menucontain .moblow {
-    margin-top: 25px;
-  }
-}
-
 
 .menucontain a:link {
   color: #3366cc;
