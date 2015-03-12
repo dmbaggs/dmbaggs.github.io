@@ -1,7 +1,7 @@
 .menu {
   height: 50px;
   background-color: white;
-  margin-top: 1%;
+  margin-top: 5px;
 }
 
 @media (max-width: 400px) {
