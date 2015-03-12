@@ -32,7 +32,10 @@
   .menu {
     text-align: right;
     height: 175px;
-    margin-top: 1%;
+  }
+
+  .menucontain {
+    margin-top: 10px;
   }
 }
 
