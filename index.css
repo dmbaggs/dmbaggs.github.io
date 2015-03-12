@@ -90,6 +90,8 @@
 #box {
   width: 250px;
   height: 250px;
+  margin: 1px solid black;
+  background: green;
 }
 
 .aboutme {
