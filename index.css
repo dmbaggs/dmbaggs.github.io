@@ -4,6 +4,14 @@
   margin-top: 10px;
 }
 
+@media (max-width: 300px) {
+  .menu {
+    text-align: right;
+    height: 500px;
+  }
+}
+
+
 .menucontain {
   text-align: center;
   margin-top: 10px;
@@ -17,15 +25,8 @@
   margin-top: 3px;
 }
 
-@media (max-width: 300px) {
-  .menu {
-    text-align: right;
-    height: 500px;
-  }
-}
-
 @media (max-width: 400px) {
-  .moblow {
+  .menucontain .moblow {
     margin-top: 25px;
   }
 }
