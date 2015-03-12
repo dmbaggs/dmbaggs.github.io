@@ -142,35 +142,10 @@
 
 .core {
   margin-top: 25px;
+  height: 100px;
+  background-color: #878787
 }
 
-.mini-box {
-  border: 1px solid black;
-}
-
-.mini-boxtwo {
-  border: 1px solid black;
-  margin-top: 15px;
-}
-/* portfolio page */
-#header {
-  text-align: center;
-  font-family: 'Oswald', Helvetica, serif;
-  font-weight: 400;
-  color: #3366cc;
-}
-
-.folio {
-  text-align: center;
-  margin-top: 50px;
-}
-
-.contents {
-  background-color: #3366cc;
-  border: 1px solid black;
-  height: 250px;
-  width: 250px;
-}
 
 /* ABOUT ME PAGE */
 
