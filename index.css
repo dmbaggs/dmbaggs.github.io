@@ -4,13 +4,6 @@
   margin-top: 10px;
 }
 
-@media (max-width: 400px) {
-  .menu {
-    text-align: right;
-    height: 50%px;
-  }
-}
-
 .menucontain {
   text-align: center;
   margin-top: 10px;
@@ -22,12 +15,6 @@
 
 .moblow {
   margin-top: 3px;
-}
-
-@media (max-width: 400px) {
-  .moblow {
-    margin-top: 25px;
-  }
 }
 
 .menucontain a:link {
@@ -43,6 +30,20 @@
 .menucontain a:hover {
   text-decoration: none;
   color: #3366cc;
+}
+
+
+@media (max-width: 400px) {
+  .menu {
+    text-align: right;
+    height: 50%px;
+  }
+}
+
+@media (max-width: 400px) {
+  .moblow {
+    margin-top: 25px;
+  }
 }
 
 #name {
