@@ -20,6 +20,7 @@
 @media (max-width: 300px) {
   .menu {
     text-align: right;
+    height: 500px;
   }
 }
 
