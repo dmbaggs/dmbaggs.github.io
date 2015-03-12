@@ -186,6 +186,14 @@
   height: 600px;
 }
 
+#row1 {
+  margin-top: 50px;
+}
+
+#row2 {
+  margin-top: 50px;
+}
+
 #concon h1 {
   font-size: 50px;
   font-family: 'Oswald', Helvetica, serif;
