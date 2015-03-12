@@ -95,6 +95,12 @@
   margin-left: 10%;
 }
 
+.work h5 {
+  border: 2px solid #3366cc;
+  border-radius: 2px;
+  padding: 5px;
+}
+
 #box {
   width: 250px;
   height: 250px;
