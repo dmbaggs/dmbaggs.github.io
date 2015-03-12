@@ -28,6 +28,12 @@
   color: #3366cc;
 }
 
+@media (max-width: 400px) {
+  .menucontain {
+    text-align: right;
+  }
+}
+
 #name {
   font-size: 18px;
   color: black;
@@ -85,11 +91,11 @@
   margin-top: 2%;
 }
 
-.work {
+.aboutme {
   margin-top: 5%;
 }
 
-.work p {
+.aboutme p {
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 300;
   font-size: 25px;
@@ -98,7 +104,7 @@
   margin-top: 3%;
 }
 
-.work h5 {
+.aboutme h5 {
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 400;
   font-size: 25px;
@@ -114,7 +120,7 @@
 }
 
 @media (max-width: 400px) {
-  .work p {
+  .aboutme p {
     font-size: 8px;
   }
 }
@@ -127,7 +133,7 @@
   margin-left: -25%
 }
 
-.aboutme {
+.core {
   margin-top: 25px;
 }
 
