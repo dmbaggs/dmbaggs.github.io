@@ -12,6 +12,11 @@
   color: #3366cc;
 }
 
+.option {
+  width: 0;
+  margin-right: 50px;
+}
+
 .menucontain a:link {
   color: #3366cc;
   text-decoration: none;
