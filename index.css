@@ -65,7 +65,7 @@
 
 @media (max-width: 900px) {
   .bigphoto h2 {
-    font-size: 10px;
+    font-size: 75px;
   }
 }
 
@@ -80,7 +80,7 @@
 
 @media (max-width: 900px) {
   .bigphoto h1 {
-    font-size: 40px;
+    font-size: 60px;
   }
 }
 
