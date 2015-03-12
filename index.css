@@ -183,10 +183,11 @@
   text-align: center;
   background-color: #3366cc;
   margin-top: 1%;
+  height: 100%;
 }
 
 #concon h1 {
-  font-size: 100px;
+  font-size: 50px;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 400;
 }
