@@ -91,6 +91,7 @@
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 300;
   font-size: 50px;
+  width: 90%;
 }
 
 #box {
@@ -98,7 +99,7 @@
   height: 250px;
   margin: 1px solid black;
   background: green;
-  margin-left: -50%
+  margin-left: -25%
 }
 
 .aboutme {
