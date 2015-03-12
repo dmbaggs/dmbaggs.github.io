@@ -109,6 +109,12 @@
   margin-top: 5%;
 }
 
+@media (max-width: 400px) {
+  .work p {
+    font-size: 8px;
+  }
+}
+
 #box {
   width: 250px;
   height: 250px;
