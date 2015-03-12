@@ -92,6 +92,7 @@
   height: 250px;
   margin: 1px solid black;
   background: green;
+  margin-left: -50%
 }
 
 .aboutme {
