@@ -24,12 +24,6 @@
   }
 }
 
-@media (max-width: 400px) {
-  .moblow {
-    margin-top: 25px;
-  }
-}
-
 .menucontain a:link {
   color: #3366cc;
   text-decoration: none;
