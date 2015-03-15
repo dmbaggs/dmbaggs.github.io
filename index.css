@@ -146,6 +146,23 @@
   background-color: #878787
 }
 
+.more1 {
+  background-color: #3366cc;
+}
+
+.more1 h1 {
+  font-family: 'Oswald', Helvetica, serif;
+  font-weight: 400;
+  font-size: 25px;
+  color: white;
+}
+
+.more2 h1 {
+  font-family: 'Oswald', Helvetica, serif;
+  font-weight: 400;
+  font-size: 25px;
+  color: #3366cc;
+}
 
 /* ABOUT ME PAGE */
 
