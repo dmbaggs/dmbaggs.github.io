@@ -146,11 +146,16 @@
   background-color: #878787
 }
 
+.split {
+  height: 250px;
+}
+
 .more1 {
   background-color: #3366cc;
 }
 
 .more1 h1 {
+  text-align: center;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 400;
   font-size: 25px;
@@ -158,6 +163,7 @@
 }
 
 .more2 h1 {
+  text-align: center;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 400;
   font-size: 25px;
