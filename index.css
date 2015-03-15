@@ -146,12 +146,9 @@
   background-color: #878787
 }
 
-.split {
-  height: 250px;
-}
-
 .more1 {
   background-color: #3366cc;
+  height: 150px;
 }
 
 .more1 h1 {
@@ -160,6 +157,10 @@
   font-weight: 400;
   font-size: 25px;
   color: white;
+}
+
+.more2 {
+  height: 150px;
 }
 
 .more2 h1 {
