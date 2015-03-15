@@ -146,6 +146,10 @@
   background-color: #878787
 }
 
+.points {
+  text-align: center;
+}
+
 .more1 {
   background-color: #3366cc;
   height: 150px;
