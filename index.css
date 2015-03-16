@@ -226,6 +226,10 @@
 
 /* portfolio page */
 
+.folio {
+  margin-top: 5%;
+}
+
 .folio p {
   text-align: center;
   font-family: 'Oswald', Helvetica, serif;
@@ -237,6 +241,7 @@
   width: 300px;
   height: 175px;
   background-color: #3366cc;
+  margin-left: 13%;
 }
 
 /* connect page */
