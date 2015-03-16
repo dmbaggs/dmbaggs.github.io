@@ -251,6 +251,10 @@
   font-weight: 400;
 }
 
+.icons {
+  margin-left: 15px;
+}
+
 @media (max-width: 400px) {
   #concon h1 {
     font-size: 50px;
