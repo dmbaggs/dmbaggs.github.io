@@ -246,7 +246,7 @@
 }
 
 #concon h1 {
-  font-size: 35px;
+  font-size: 50px;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 400;
 }
@@ -255,4 +255,9 @@
   #concon h1 {
     font-size: 50px;
   }
+}
+
+#concon a:link {
+  color: #FFFFFF;
+  text-decoration: none;
 }
