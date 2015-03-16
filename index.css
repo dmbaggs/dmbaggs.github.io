@@ -226,6 +226,13 @@
 
 /* portfolio page */
 
+.folio p {
+  text-align: center;
+  font-family: 'Oswald', Helvetica, serif;
+  font-weight: 300;
+  color: #3366cc;
+}
+
 #box2 {
   width: 300px;
   height: 175px;
