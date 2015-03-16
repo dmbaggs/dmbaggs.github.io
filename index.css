@@ -246,33 +246,13 @@
 }
 
 #concon h1 {
-  font-size: 50px;
+  font-size: 35px;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 400;
-}
-
-.icons {
-  margin-left: 15px;
 }
 
 @media (max-width: 400px) {
   #concon h1 {
     font-size: 50px;
   }
-}
-
-#concon a:link {
-  color: #FFFFFF;
-  text-decoration: none;
-}
-
-#concon a:visited {
-  text-decoration: none;
-  color: #FFFFFF;
-}
-
-#concon a:hover {
-  text-decoration: none;
-  color: #FFFFFF;
-  font-weight: 700;
 }
