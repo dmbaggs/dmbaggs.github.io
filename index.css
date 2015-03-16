@@ -63,9 +63,9 @@
   font-size: 75px;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 400px) {
   .bigphoto h2 {
-    font-size: 75px;
+    font-size: 45px;
   }
 }
 
