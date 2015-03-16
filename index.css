@@ -54,6 +54,13 @@
   }
 }
 
+@media (max-width: 400px) {
+  .bigphoto {
+    height: 300px;
+    margin-top: 50px;
+  }
+}
+
 .bigphoto h2 {
   text-align: left;
   color: white;
