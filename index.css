@@ -224,6 +224,14 @@
   color: #3366cc;
 }
 
+/* portfolio page */
+
+#box2 {
+  width: 300px;
+  height: 175px;
+  background-color: #3366cc;
+}
+
 /* connect page */
 #concon {
   text-align: center;
