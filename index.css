@@ -1,6 +1,6 @@
 .menu {
   height: 50px;
-  background-color: white;
+  background-color: #3366cc;
   margin-top: 10px;
 }
 
@@ -18,18 +18,18 @@
 }
 
 .menucontain a:link {
-  color: #3366cc;
+  color: #ffffff;
   text-decoration: none;
 }
 
 .menucontain a:visited {
   text-decoration: none;
-  color: #3366cc;
+  color: #ffffff;
 }
 
 .menucontain a:hover {
   text-decoration: none;
-  color: #3366cc;
+  color: #ffffff;
 }
 
 
