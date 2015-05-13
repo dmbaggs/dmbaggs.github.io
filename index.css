@@ -233,11 +233,16 @@
   color: #3366cc;
 }
 
+#resume {
+  margin-top: 5%;
+}
+
 .sample {
   border: 5px solid #3366cc;
   height: 250px;
   width: 250px;
   display: inline-block;
+  margin-left: 10%
 }
 
 /* connect page */
