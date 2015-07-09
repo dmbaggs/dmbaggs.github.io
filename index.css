@@ -97,6 +97,21 @@
   margin-top: 2%;
 }
 
+/* footer */
+.footer {
+  height: 125px;
+  color: #3366cc;
+}
+
+.footer p #pleft {
+  font-size: 12px;
+  color: white;
+  text-align: left
+}
+
+
+
+
 .aboutme {
   margin-top: 10%;
 }
