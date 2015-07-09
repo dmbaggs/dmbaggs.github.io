@@ -102,10 +102,10 @@
   height: 25px;
   background-color: #3366cc;
   margin-top: 10%;
-  display: inline;
 }
 
 .footer p {
+  display: inline;
   font-size: 12px;
 }
 
