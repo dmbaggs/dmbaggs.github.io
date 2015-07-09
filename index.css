@@ -252,8 +252,12 @@
   height: 200px;
   width: 200px;
   display: inline-block;
-  margin-left: 10%;
+  margin-left: 5%;
   margin-top: 5%;
+}
+
+.sample:nth-child(4n+4) { 
+  margin-left: 0; 
 }
 
 /* connect page */
