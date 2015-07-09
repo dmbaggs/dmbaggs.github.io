@@ -256,9 +256,6 @@
   margin-top: 5%;
 }
 
-.sample:nth-child(4n+4) { 
-  margin-left: 0; 
-}
 
 /* connect page */
 #concon {
