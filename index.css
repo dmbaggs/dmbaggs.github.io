@@ -106,13 +106,10 @@
 
 .footer p {
   margin-top: 1%;
-  display: inline;
+  margin-left: 9%;
   font-size: 12px;
 }
 
-#pright {
-  text-align: right;
-}
 
 .aboutme {
   margin-top: 10%;
