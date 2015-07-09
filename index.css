@@ -109,8 +109,9 @@
   font-size: 12px;
 }
 
-
-
+#pright {
+  text-align: right;
+}
 
 .aboutme {
   margin-top: 10%;
