@@ -237,6 +237,15 @@
   background-color: #ffffff;
 }
 
+#resume h2 {
+  text-align: left;
+  color: #3366cc;
+  margin-top: 10%;
+  font-family: 'Oswald', Helvetica, serif;
+  font-weight: 300;
+  font-size: 75px;
+}
+
 .sample {
   border: 5px solid #3366cc;
   height: 250px;
