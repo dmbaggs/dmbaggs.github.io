@@ -234,12 +234,11 @@
 }
 
 #resume {
-  margin-top: 5%;
-  background-color: #3366cc;
+  background-color: #000000;
 }
 
 .sample {
-  border: 5px solid white;
+  border: 5px solid #3366cc;
   height: 250px;
   width: 250px;
   display: inline-block;
