@@ -235,13 +235,13 @@
 
 #resume {
   background-color: #ffffff;
-  margin-left: 9%;
 }
 
 #resume h2 {
   text-align: left;
   color: #3366cc;
   margin-top: 10%;
+  margin-left: 9%;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 300;
   font-size: 75px;
@@ -252,6 +252,7 @@
   height: 250px;
   width: 250px;
   display: inline-block;
+  margin-left: 10%;
   margin-top: 5%;
 }
 
