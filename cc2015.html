@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en-US">
+   <head>
+      <!-- meta --> 
+        <meta chartset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html">
+      <!-- end -->
+
+      <!-- css -->
+         <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+        <link rel="stylesheet" type="text/css" media="all" href="http://fonts.googleapis.com/css?family=Fauna+One">
+      <!-- end -->
+          
+      <!-- Bootstrap css -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/custom.css" rel="stylesheet">
+      <!-- end -->
+
+      <!-- galleria.js -->
+        <script type="text/javascript" src="js/galleria-1.2.9.min.js"></script>
+      <!-- end -->
+
+      <!-- FONTS -->
+        <link href='http://fonts.googleapis.com/css?family=Oswald:700,400,300' rel='stylesheet' type='text/css'>
+      <!-- end -->
+
+
+      <title>Cuba Creatives 2015</title>
+
+   </head>
+
+   <body>
+
+      <!--javascript -->
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+      <!-- end -->
+   
+    <div class="row menu">
+      <div class="menucontain">
+        <div class="col-xs-12 col-sm-2 col-sm-offset-1">
+          <a id="name" href="/index.html"><img src="logo.png"/></a>
+        </div>
+        <div class="col-xs-3 col-sm-1 col-sm-offset-5 moblow">
+          <a href="#resume">Work</a>
+        </div>      
+        <div class="col-xs-3 col-sm-1 moblow">
+          <a href="/about.html">About</a>
+        </div> 
+        <div class="col-xs-3 col-sm-1 moblow">
+          <a href="/connect.html">Connect</a>
+        </div>
+      </div>
+    </div> 
+
+    <div id="gallery-container">
+      <div id="cubacreatives">
+        <img src="photos/ccphoto1.png">
+        <img src="photos/ccphoto2.png">
+      </div>
+    </div>
+
+    </body>
+
+    <script> 
+      $(function(){
+        Galleria.loadTheme('js/themes/classic/galleria.classic.min.js');
+        Galleria.run('#cubacreatives');
+      });
+    </script>
+</html>
