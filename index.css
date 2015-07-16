@@ -204,6 +204,10 @@
   margin-top: 5%;
 }
 
+#headshot {
+  text-align: center;
+}
+
 #abouttext {
   border: 1px solid blue;
   height: 500px;
