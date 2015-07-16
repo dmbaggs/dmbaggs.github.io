@@ -3,13 +3,15 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html">
+  <title>jQuery Galleria Image Slideshow Demo</title>
+  <meta name="author" content="Jake Rocheleau">
+  <link rel="shortcut icon" href="http://spyrestudios.com/favicon.ico">
+  <link rel="icon" href="http://spyrestudios.com/favicon.ico">
   <link rel="stylesheet" type="text/css" media="all" href="styles.css">
-  <link rel="stylesheet" type="text/css" href="mystyles.css" media="screen" />
   <link rel="stylesheet" type="text/css" media="all" href="http://fonts.googleapis.com/css?family=Fauna+One">
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <script type="text/javascript" src="galleria/galleria-1.4.2.min.js"></script>
-  <link rel="stylesheet" href="galleria/themes/classic/galleria.classic.css">
-  <script src="galleria/themes/classic/galleria.classic.min.js"></script>
+
 </head>
 <body>
   <div id="gallery-container">
@@ -22,7 +24,10 @@
 
   <script type="text/javascript">
     $(function(){
-      Galleria.run('#mygallery');
+      Galleria.loadTheme('galleria/themes/classic/galleria.classic.min.js');
+      Galleria.run('#mygallery', {responsive:true,height:0.5625});
     });
   </script>
+
+  Galleria.run('#galleria', {responsive:true,height:0.5625});
 </body>
