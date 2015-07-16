@@ -197,34 +197,14 @@
 
 /* ABOUT ME PAGE */
 
-.aboutrow {
-  margin-top: 25px;
+#aboutphoto {
+  border: 1px solid black;
 }
 
-.aboutrow2 {
-  margin-top: 25px;
+#abouttext {
+  border: 1px solid blue;
 }
 
-.aboutmain {
-  text-align: center;
-  font-family: 'Oswald', Helvetica, serif;
-  font-weight: 700;
-  color: #3366cc;
-}
-
-.aboutmain h1 {
-  font-size: 100px;
-}
-
-.aboutmain h2 {
-  font-size: 85px;
-}
-
-#mystory {
-  font-family: 'Oswald', Helvetica, serif;
-  font-weight: 700;
-  color: #3366cc;
-}
 
 /* portfolio page */
 
