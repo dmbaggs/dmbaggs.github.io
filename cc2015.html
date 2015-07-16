@@ -1,27 +1,30 @@
 <!doctype html>
-<html lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html">
-    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
-    <link rel="stylesheet" type="text/css" media="all" href="http://fonts.googleapis.com/css?family=Fauna+One">
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script type="text/javascript" src="js/galleria-1.4.2.js"></script>
-  </head>
-   <body>
-      <div id="gallery-container">
-        <div id="cubacreatives">
-          <img src="photos/ccphoto1.png">
-          <img src="photos/ccphoto1.png">
-          <img src="photos/ccphoto1.png">
-        </div>
-      </div>
-    </body>
+<head>
+  <style>
+    /* Prevents slides from flashing */
+    #slides {
+      display:none;
+    }
+  </style>
 
-    <script> 
-      $(function(){
-        Galleria.loadTheme('js/themes/classic/galleria.classic.min.js');
-        Galleria.run('#cubacreatives');
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="jquery.slides.min.js"></script>
+
+  <script>
+    $(function(){
+      $("#slides").slidesjs({
+        width: 940,
+        height: 528
       });
-    </script>
-</html>
+    });
+  </script>
+</head>
+<body>
+  <div id="slides">
+    <img src="http://placehold.it/940x528">
+    <img src="http://placehold.it/940x528">
+    <img src="http://placehold.it/940x528">
+    <img src="http://placehold.it/940x528">
+    <img src="http://placehold.it/940x528">
+  </div>
+</body>
