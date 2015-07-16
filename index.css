@@ -199,10 +199,16 @@
 
 #aboutphoto {
   border: 1px solid black;
+  height: 500px;
+  width: 500px;
+  margin-top: 5%;
 }
 
 #abouttext {
   border: 1px solid blue;
+  height: 500px;
+  width: 500px;
+  margin-top: 5%;
 }
 
 
