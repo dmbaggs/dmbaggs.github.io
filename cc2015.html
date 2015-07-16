@@ -25,6 +25,10 @@
   <script type="text/javascript">
     $(function(){
       Galleria.loadTheme('galleria/themes/classic/galleria.classic.min.js');
+      Galleria.configure({
+        transition: 'fade',
+        imageCrop: true
+      });
       Galleria.run('#mygallery', {responsive:true,height:0.5625});
     });
   </script>
