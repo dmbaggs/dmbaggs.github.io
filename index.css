@@ -329,11 +329,10 @@
 @media (max-width: 736px) {
   #slideshowcontainer {
     width: 100%;
-    margin-left: 0%;
   }
 
   #twotap {
-    margin-right: 5%;
+    margin-right: 1%;
   }
 }
 
