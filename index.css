@@ -326,7 +326,7 @@
   margin-left: 15%;
 }
 
-@media (max-width: 980px) {
+@media (max-width: 736px) {
   #slideshowcontainer {
     width: 100%;
     margin-left: 0%;
