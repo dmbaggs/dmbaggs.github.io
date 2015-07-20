@@ -333,6 +333,18 @@
   }
 }
 
+@media (min-width: 400px) {
+  #twotap {
+    display: none;
+  }
+}
+
+@media (max-width: 400px) {
+  #twotap {
+    text-align: right;
+  }
+}
+
 #info {
   margin-top: 5%;
   text-align: left;
