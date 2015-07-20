@@ -332,7 +332,7 @@
   font-style: italic;
 }
 
-@media (max-width: 736px) {
+@media (max-width: 800px) {
   #slideshowcontainer {
     width: 100%;
     margin-left: 0%;
@@ -343,7 +343,7 @@
   }
 }
 
-@media (min-width: 737px) {
+@media (min-width: 801px) {
   #twotap {
     display: none;
   }
