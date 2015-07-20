@@ -328,7 +328,7 @@
 
 @media (max-width: 400px) {
   #slideshowcontainer {
-    width: auto;
+    width: 100%;
     margin-left: 0%;
   }
 }
