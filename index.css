@@ -320,6 +320,10 @@
 
 /* CC2015 */
 
+#slideshowcontainer {
+  margin-top: 5%;
+}
+
 #info {
   margin-top: 5%;
   text-align: left;
