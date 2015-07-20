@@ -329,7 +329,7 @@
 @media (max-width: 400px) {
   #slideshowcontainer{
     width: auto;
-    height: 100px;
+    margin-left: 0;
   }
 }
 
