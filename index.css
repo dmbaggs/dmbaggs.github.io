@@ -343,6 +343,13 @@
   }
 }
 
+@media (min-width: 737px) {
+  #twotap {
+    display: none;
+  }
+}
+
+
 
 #info {
   margin-top: 5%;
