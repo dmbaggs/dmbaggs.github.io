@@ -333,6 +333,11 @@
   }
 }
 
+#twotap {
+  text-align: right;
+  font-style: italic;
+}
+
 
 #info {
   margin-top: 5%;
