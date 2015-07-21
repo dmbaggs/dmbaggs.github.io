@@ -348,15 +348,19 @@
     margin-right: 1%;
   }
 
-  #twotap h1 {
+  #info {
+    margin-left: 10%
+  }
+
+  #info h1 {
     font-size: 25px
   }
 
-  #twotap h2 {
+  #info h2 {
     font-size: 15px
   }
 
-  #twotap p {
+  #info p {
     font-size: 10px
   }
 }
