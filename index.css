@@ -369,7 +369,7 @@
   }
 
   #info {
-    margin-top: 5%;
+    margin-top: 1%;
     margin-left: 5%;
     margin-right: 15%;
   }
@@ -382,6 +382,10 @@
     font-size: 12px;
     margin-top: -3%
   }
+
+  #info p:first-of-type{
+    margin-top: 2%
+}
 
   #info p {
     font-size: 8px;
