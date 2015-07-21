@@ -332,6 +332,12 @@
   font-style: italic;
 }
 
+#info {
+  margin-top: 5%;
+  text-align: left;
+  margin-left: 25%;
+}
+
 @media (max-width: 600px) {
   #slideshowcontainer {
     width: 100%;
@@ -341,6 +347,18 @@
   #twotap {
     margin-right: 1%;
   }
+
+  #twotap h1 {
+    font-size: 25px
+  }
+
+  #twotap h2 {
+    font-size: 15px
+  }
+
+  #twotap p {
+    font-size: 10px
+  }
 }
 
 @media (min-width: 601px) {
@@ -349,10 +367,3 @@
   }
 }
 
-
-
-#info {
-  margin-top: 5%;
-  text-align: left;
-  margin-left: 25%;
-}
