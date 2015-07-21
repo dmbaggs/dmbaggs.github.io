@@ -358,7 +358,7 @@
 
 
 
-@media screen (max-width: 768px) {
+@media handheld,screen and (max-width: 768px) {
   #slideshowcontainer {
     width: 100%;
     margin-left: 0%;
