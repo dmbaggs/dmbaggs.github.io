@@ -32,6 +32,13 @@
 }
 
 
+@media handheld,screen and (max-width: 768px) {
+  .menu {
+    height: 75px;
+  }
+}
+
+
 
 #name {
   font-size: 18px;
