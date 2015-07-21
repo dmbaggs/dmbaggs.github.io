@@ -358,7 +358,7 @@
 
 
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   #slideshowcontainer {
     width: 100%;
     margin-left: 0%;
@@ -387,7 +387,7 @@
   }
 }
 
-@media (min-width: 601px) {
+@media (min-width: 769px) {
   #twotap {
     display: none;
   }
