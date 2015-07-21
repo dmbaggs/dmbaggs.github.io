@@ -334,7 +334,7 @@
 }
 
 #info {
-  margin-top: 5%;
+  margin-top: 0%;
   text-align: left;
   margin-left: 15%;
 }
@@ -350,6 +350,7 @@
   }
 
   #info {
+    margin-top: 5%;
     margin-left: 5%;
   }
 
