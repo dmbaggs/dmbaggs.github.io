@@ -337,7 +337,26 @@
   margin-top: 2%;
   text-align: left;
   margin-left: 15%;
+  margin-right: 25%;
 }
+
+#info h1 {
+  font-size: 30px;
+}
+
+#info h2 {
+  font-size: 20px;
+}
+
+#info p:first-of-type{
+    margin-top: 5%
+}
+
+#info p {
+  font-size: 16px;
+}
+
+
 
 @media (max-width: 600px) {
   #slideshowcontainer {
