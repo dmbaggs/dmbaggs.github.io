@@ -93,6 +93,38 @@
   }
 }
 
+#resume {
+  background-color: #ffffff;
+}
+
+#resume h2 {
+  text-align: left;
+  color: #3366cc;
+  margin-top: 5%;
+  margin-left: 10%;
+  font-family: 'Oswald', Helvetica, serif;
+  font-weight: 300;
+  font-size: 50px;
+}
+
+#workwrap {
+  margin-left: 5%;
+}
+
+.sample {
+  border: 5px solid #3366cc;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+
+#samp1 {
+  background-image: url("/photos/cc2015logo.png");
+}
+
+
 
 /* footer */
 .footer {
@@ -109,88 +141,6 @@
 }
 
 
-.aboutme {
-  margin-top: 10%;
-}
-
-.aboutme p {
-  font-family: 'Oswald', Helvetica, serif;
-  font-weight: 300;
-  font-size: 25px;
-  width: 80%;
-  margin-left: 5%;
-  margin-top: 3%;
-}
-
-.aboutme h5 {
-  font-family: 'Oswald', Helvetica, serif;
-  font-weight: 400;
-  font-size: 25px;
-  color: white;
-  border: 2px solid #3366cc;
-  background-color: #3366CC;
-  border-radius: 5px;
-  padding: 5px;
-  margin-left: 40%;
-  margin-right: 45%;
-  margin-top: 3%;
-  padding-left: 10px;
-}
-
-@media (max-width: 400px) {
-  .aboutme p {
-    font-size: 8px;
-  }
-}
-
-#box {
-  width: 250px;
-  height: 250px;
-  background: green;
-  margin-left: -25%
-}
-
-@media (max-width: 400px) {
-  #box {
-    width: 100px;
-    height: 100px;
-  }
-}
-
-.more1 {
-  background-color: #3366cc;
-  height: 150px;
-}
-
-.more1:hover {
-  background-color: #3366bb;
-}
-
-.more1 h1 {
-  text-align: center;
-  font-family: 'Oswald', Helvetica, serif;
-  font-weight: 400;
-  font-size: 50px;
-  color: white;
-  margin-top: 8%;
-}
-
-.more2 {
-  height: 150px;
-}
-
-.more2:hover {
-  background-color: #eeeeee;
-}
-
-.more2 h1 {
-  text-align: center;
-  font-family: 'Oswald', Helvetica, serif;
-  font-weight: 400;
-  font-size: 50px;
-  color: #3366cc;
-  margin-top: 8%;
-}
 
 /* ABOUT ME PAGE */
 
@@ -235,36 +185,6 @@
   color: #3366cc;
 }
 
-#resume {
-  background-color: #ffffff;
-}
-
-#resume h2 {
-  text-align: left;
-  color: #3366cc;
-  margin-top: 5%;
-  margin-left: 10%;
-  font-family: 'Oswald', Helvetica, serif;
-  font-weight: 300;
-  font-size: 50px;
-}
-
-#workwrap {
-  margin-left: 5%;
-}
-
-.sample {
-  border: 5px solid #3366cc;
-  height: 200px;
-  width: 200px;
-  display: inline-block;
-  margin-left: 5%;
-  margin-top: 3%;
-}
-
-#samp1 {
-  background-image: url("/photos/cc2015logo.png);
-}
 
 
 
