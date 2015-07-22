@@ -67,8 +67,8 @@
 .jumbo {
   text-align: left;
   color: white;
-  margin-top: 0%;
-  margin-left: 5%;
+  margin-top: 10%;
+  margin-left: 10%;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 700;
   font-size: 75px;
@@ -77,8 +77,6 @@
 .jumbo h1 {
   text-align: left;
   color: white;
-  margin-top: 0%;
-  margin-left: 5%;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 700;
   font-size: 75px;
