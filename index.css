@@ -1,3 +1,4 @@
+/* MENU */
 .menu {
   height: 50px;
   background-color: #3366cc;
@@ -38,13 +39,14 @@
   }
 }
 
-
 #name {
   font-size: 18px;
   color: black;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 300;
 }
+
+/* END MENU */
 
 .bigphoto {
   background-color: #3366cc;
@@ -258,6 +260,10 @@
   display: inline-block;
   margin-left: 5%;
   margin-top: 3%;
+}
+
+#samp1 {
+  background-image: url("/photos/cc2015logo.png);
 }
 
 
