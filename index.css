@@ -71,7 +71,7 @@
   margin-left: 10%;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 700;
-  font-size: 75px;
+  font-size: 95px;
 }
 
 .jumbo h1 {
@@ -79,7 +79,7 @@
   color: white;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 700;
-  font-size: 75px;
+  font-size: 100px;
 }
 
 @media (max-width: 900px) {
