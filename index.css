@@ -65,22 +65,7 @@
   }
 }
 
-.bigphoto h2 {
-  text-align: left;
-  color: white;
-  margin-top: 10%;
-  font-family: 'Oswald', Helvetica, serif;
-  font-weight: 300;
-  font-size: 75px;
-}
-
-@media (max-width: 400px) {
-  .bigphoto h2 {
-    font-size: 45px;
-  }
-}
-
-.bigphoto h1 {
+.jumbo {
   text-align: left;
   color: white;
   margin-top: 10%;
@@ -90,18 +75,11 @@
 }
 
 @media (max-width: 900px) {
-  .bigphoto h1 {
+  .jumbo {
     font-size: 60px;
   }
 }
 
-.jumbo {
-  margin-left: 9%;
-}
-
-.jumbo h2 {
-  margin-top: 2%;
-}
 
 /* footer */
 .footer {
