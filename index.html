@@ -56,8 +56,18 @@
 
     <div class="row bigphoto">
       <div class="col-xs-11 col-xs-offest-1 jumbo">
-        <h1>Hello.</h1>
-        <h2>I am a <span data-typer-targets="designer, creative director, strategist"> </span></h2>
+        <script>
+          $(function(){
+              $(".element").typed({
+                strings: ["Hello,", "My name is David Baggs","I am a Designer"],
+                typeSpeed: 0
+              });
+              $(".typed").typed({ strings: ["Sentence with <br>line break."] 
+            });
+          });
+        </script>
+
+        <div class="element"></div>
       </div>
     </div>
 
@@ -92,12 +102,6 @@
       </div>
     </div>
    
-
-    <script>
-      $(function () {
-        $('[data-typer-targets]').typer();
-      });
-    </script>
 
   </body>
 </html>
