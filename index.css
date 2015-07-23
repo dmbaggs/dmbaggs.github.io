@@ -1,7 +1,7 @@
 /* MENU */
 .menu {
   height: 50px;
-  background-color: #3366cc;
+  background-color: #1db458;
 }
 
 .menucontain {
@@ -99,7 +99,7 @@
 
 #resume h2 {
   text-align: left;
-  color: #3366cc;
+  color: #1db458;
   margin-top: 5%;
   margin-left: 10%;
   font-family: 'Oswald', Helvetica, serif;
@@ -112,7 +112,7 @@
 }
 
 .sample {
-  border: 5px solid #3366cc;
+  border: 5px solid #1db458;
   height: 200px;
   width: 200px;
   display: inline-block;
@@ -135,7 +135,7 @@
 /* footer */
 .footer {
   height: 25px;
-  background-color: #3366cc;
+  background-color: #1db458;
   margin-top: 10%;
 }
 
@@ -180,7 +180,7 @@
   font-size: 24px;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 400;
-  color: #3366cc;
+  color: #1db458;
 }
 
 .folio p {
@@ -188,7 +188,7 @@
   font-size: 18px;
   font-family: 'Oswald', Helvetica, serif;
   font-weight: 300;
-  color: #3366cc;
+  color: #1db458;
 }
 
 
@@ -197,7 +197,7 @@
 /* connect page */
 #concon {
   text-align: center;
-  background-color: #3366cc;
+  background-color: #1db458;
   margin-top: 1%;
   height: 600px;
 }
