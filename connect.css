@@ -122,6 +122,7 @@ margin-left: 6%;
 margin-top: 5%;
 float: left;
 border: 1px solid #3366cc;
+text-align: center;
 }
 
 @media (max-width: 700px) {
