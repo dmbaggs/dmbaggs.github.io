@@ -120,11 +120,9 @@
   margin-top: 3%;
 }
 
-#samp1 {
-  background-image: url("/photos/cc2015logo.png");
+.workphoto {
+  width: 100%;
 }
-
-
 
 /* footer */
 .footer {
