@@ -92,6 +92,24 @@ animation-delay: 1.4s;
 animation-delay: 1.8s;
 }
 
+.fade-in.five {
+-webkit-animation-delay: 2.2s;
+-moz-animation-delay: 2.2s;
+animation-delay: 2.2s;
+}
+
+.fade-in.six {
+-webkit-animation-delay: 2.6s;
+-moz-animation-delay: 2.6s;
+animation-delay: 2.6s;
+}
+
+.fade-in.seven {
+-webkit-animation-delay: 3.0s;
+-moz-animation-delay: 3.0s;
+animation-delay: 3.0s;
+}
+
 #conwrap {
   margin-left: 5%;
 }
@@ -100,7 +118,7 @@ animation-delay: 1.8s;
 width: 200px;
 height: 200px;
 position: relative;
-margin-left: 5%; 
+margin-left: 6%; 
 margin-top: 5%;
 float: left;
 border: 1px solid #3366cc;
