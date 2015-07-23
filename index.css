@@ -122,6 +122,7 @@
 
 .workphoto {
   width: 100%;
+  vertical-align:super;
 }
 
 /* footer */
