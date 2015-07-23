@@ -125,6 +125,17 @@
   vertical-align:super;
 }
 
+@media (max-width: 700px) {
+  #workwrap {
+    margin-left: 2%;
+  }
+
+  .sample {
+    width: 75px;
+    height: 75px;
+  }  
+}
+
 /* footer */
 .footer {
   height: 25px;
