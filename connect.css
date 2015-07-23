@@ -104,12 +104,6 @@ animation-delay: 2.2s;
 animation-delay: 2.6s;
 }
 
-.fade-in.seven {
--webkit-animation-delay: 3.0s;
--moz-animation-delay: 3.0s;
-animation-delay: 3.0s;
-}
-
 #conwrap {
   margin-left: 5%;
 }
@@ -121,7 +115,6 @@ position: relative;
 margin-left: 6%; 
 margin-top: 5%;
 float: left;
-border: 1px solid #3366cc;
 text-align: center;
 }
 
