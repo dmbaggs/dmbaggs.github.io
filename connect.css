@@ -118,6 +118,10 @@ float: left;
 text-align: center;
 }
 
+.conphoto {
+  width: 100%
+}
+
 @media (max-width: 700px) {
   .box {
     width: 75px;
