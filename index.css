@@ -145,11 +145,10 @@
 }
 
 #copyright {
-  
+  margin-left: 10%;
 }
 
 #copyright p {
-  width: 50%;
   margin-top: 3%;
   font-size: 12px;
   color: #ffffff;
