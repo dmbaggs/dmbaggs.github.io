@@ -134,7 +134,7 @@
 
 /* footer */
 .footer {
-  height: 25px;
+  height: 50px;
   background-color: #1db458;
   margin-top: 10%;
 }
@@ -146,6 +146,15 @@
   color: #ffffff;
 }
 
+.smfoot {
+  height: 40px;
+  width: 40px;
+  margin-top: 5px;
+}
+
+.smsmall {
+  width: 100%;
+}
 
 
 /* ABOUT ME PAGE */
