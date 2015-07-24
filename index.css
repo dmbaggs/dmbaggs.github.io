@@ -156,6 +156,8 @@
 
 #footwrap {
   width: 50%;
+  text-align: right;
+  margin-left: 15%
 }
 
 .smfoot {
@@ -172,10 +174,6 @@
 }
 
 @media (max-width: 700px) {
-  #footwrap {
-    margin-left: 0%;
-  }  
-
   .smfoot {
     width: 30px;
     height: 30px;
