@@ -178,10 +178,13 @@
     display: block;
   }
 
+  #footwrap {
+    text-align: left;
+  }
+
   .smfoot {
     width: 30px;
     height: 30px;
-    text-align: left;
   }
 }
 
