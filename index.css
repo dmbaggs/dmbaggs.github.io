@@ -146,6 +146,10 @@
   color: #ffffff;
 }
 
+#smsmallwrap {
+  margin-left: 50%;
+}
+
 .smfoot {
   height: 40px;
   width: 40px;
@@ -153,6 +157,7 @@
 
 .smsmall {
   width: 100%;
+  text-align: right;
 }
 
 
