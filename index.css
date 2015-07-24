@@ -178,6 +178,10 @@
     width: 30px;
     height: 30px;
   }
+
+  #footwrap {
+    margin-left: -10%;
+  }
 }
 
 
