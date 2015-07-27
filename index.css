@@ -15,6 +15,7 @@
 
 .moblow {
   margin-top: 1.5%;
+  letter-spacing: 1px;
 }
 
 .menucontain a:link {
@@ -50,17 +51,12 @@
   height: 625px;
 } 
 
-@media (max-width: 980px) {
+@media (max-width: 700px) {
   .bigphoto {
-    height: 400px;
+    height: 500px;
   }
 }
 
-@media (max-width: 400px) {
-  .bigphoto {
-    height: 300px;
-  }
-}
 
 .jumbo {
   text-align: left;
