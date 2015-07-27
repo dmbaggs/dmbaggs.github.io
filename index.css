@@ -42,8 +42,8 @@
 #name {
   font-size: 18px;
   color: black;
-  font-family: 'Oswald', Helvetica, serif;
-  font-weight: 300;
+  font-family: 'Vollkorn', Helvetica, serif;
+  font-weight: 700;
 }
 
 /* END MENU */
@@ -70,7 +70,7 @@
   color: white;
   margin-top: 10%;
   margin-left: 10%;
-  font-family: 'Oswald', Helvetica, serif;
+  font-family: 'Vollkorn', Helvetica, serif;
   font-weight: 700;
   font-size: 95px;
 }
@@ -78,7 +78,7 @@
 .jumbo h1 {
   text-align: left;
   color: white;
-  font-family: 'Oswald', Helvetica, serif;
+  font-family: 'Vollkorn', Helvetica, serif;
   font-weight: 700;
   font-size: 100px;
 }
@@ -102,7 +102,7 @@
   color: #1db458;
   margin-top: 5%;
   margin-left: 10%;
-  font-family: 'Oswald', Helvetica, serif;
+  font-family: 'Vollkorn', Helvetica, serif;
   font-weight: 300;
   font-size: 50px;
 }
