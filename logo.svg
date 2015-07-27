@@ -38,8 +38,8 @@
 		<line fill="none" x1="47.4" y1="-2.6" x2="47.4" y2="53.3"/>
 	</g>
 	<line fill="none" stroke="#FFFFFF" stroke-width="1.25" stroke-miterlimit="10" x1="52.5" y1="0" x2="52.5" y2="50"/>
-	<rect x="61.8" y="18.8" fill="none" width="113.2" height="24.7"/>
+	<rect x="57.8" y="18.8" fill="none" width="113.2" height="24.7"/>
 	
-		<text transform="matrix(1 0 0 1 61.8335 29.8887)" fill="#FFFFFF" font-family="'Lato-Regular'" font-size="15" letter-spacing="1">DAVID </text>
+		<text transform="matrix(1 0 0 1 57.8335 29.8887)" fill="#FFFFFF" font-family="'Lato-Regular'" font-size="15" letter-spacing="1">DAVID </text>
 </g>
 </svg>
