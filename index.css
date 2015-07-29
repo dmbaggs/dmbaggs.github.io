@@ -14,7 +14,7 @@
 }
 
 .moblow {
-  margin-top: 1.5%;
+  margin-top: 1%;
   letter-spacing: 1px;
 }
 
@@ -185,7 +185,6 @@
 /* ABOUT ME PAGE */
 
 #aboutphoto {
-  border: 1px solid black;
   height: 500px;
   width: 500px;
   margin-top: 5%;
