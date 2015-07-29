@@ -185,13 +185,14 @@
 /* ABOUT ME PAGE */
 
 #aboutphoto {
-  height: 500px;
-  width: 500px;
+  height: 400px;
+  width: 400px;
   margin-top: 5%;
 }
 
 #headshot {
   text-align: center;
+  width: 100%;
 }
 
 #abouttext {
