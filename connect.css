@@ -1,6 +1,6 @@
 /* MENU */
 .menu {
-  height: 50px;
+  height: 75px;
   background-color: #1db458;
 }
 
@@ -8,13 +8,14 @@
   padding-top: 1%;
   text-align: center;
   font-size: 18px;
-  font-family: 'Lato', Helvetica, serif;
+  font-family: 'Roboto', Helvetica, serif;
   font-weight: 300;
   color: black;
 }
 
 .moblow {
-  margin-top: 3px;
+  margin-top: 1%;
+  letter-spacing: 1px;
 }
 
 .menucontain a:link {
@@ -31,7 +32,6 @@
   text-decoration: none;
   color: #ffffff;
 }
-
 
 @media handheld,screen and (max-width: 768px) {
   .menu {
