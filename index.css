@@ -215,6 +215,12 @@
   color: #000000;
 }
 
+@media (max-width: 400px) {
+  #aboutphoto {
+    height: 150px;
+    width: 150px;
+  }
+}
 
 /* portfolio page */
 
