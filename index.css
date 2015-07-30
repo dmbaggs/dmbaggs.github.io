@@ -217,14 +217,18 @@
 
 @media (max-width: 400px) {
   #aboutphoto {
-    height: 100px;
-    width: 100px;
+    height: 225px;
+    width: 225px;
   }
 
   #abouttext {
     width: 90%;
     margin-left: 5%;
     height: 400px
+  }
+
+  #abouttext p {
+    font-size: 12px;
   }
 }
 
