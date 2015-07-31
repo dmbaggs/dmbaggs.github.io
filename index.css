@@ -115,7 +115,7 @@
 }
 
 .sample {
-  border: 5px solid #1db458;
+  border: 1px solid black;
   height: 200px;
   width: 200px;
   display: inline-block;
