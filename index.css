@@ -182,7 +182,7 @@
   }
 
   #footwrap {
-    text-align: left;
+    display: none;
   }
 
   .smfoot {
