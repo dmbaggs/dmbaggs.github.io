@@ -81,7 +81,7 @@
   color: white;
   margin-top: 8%;
   margin-left: 5%;
-  font-family: 'Roboto', Helvetica, serif;
+  font-family: 'grad', Helvetica, serif;
   font-weight: 700;
   font-size: 95px;
 }
@@ -89,7 +89,7 @@
 .jumbo h1 {
   text-align: left;
   color: white;
-  font-family: 'Roboto', Helvetica, serif;
+  font-family: 'grad', Helvetica, serif;
   font-weight: 700;
   font-size: 100px;
 }
