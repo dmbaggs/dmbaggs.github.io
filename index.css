@@ -100,7 +100,7 @@
   background-color: #ffffff;
 }
 
-#header {
+#resume h2 {
   text-align: left;
   color: #1db458;
   margin-top: 5%;
@@ -135,21 +135,14 @@
 .sampleinfo h1 {
   font-family: 'Roboto', Helvetica, sans-serif;
   font-weight: 700;
-  font-size: 10px;
-  color: black;
-}
-
-.sampleinfo h2 {
-  font-family: 'Roboto', Helvetica, sans-serif;
-  font-weight: 300;
-  font-size: 10px;
+  font-size: 25px;
   color: black;
 }
 
 .sampleinfo p {
   font-family: 'Roboto', Helvetica, sans-serif;
-  font-weight: 700;
-  font-size: 10px;
+  font-weight: 300;
+  font-size: 18px;
   color: #1db458;
 }
 
