@@ -13,6 +13,19 @@
   color: black;
 }
 
+#logo {
+  width:50px;
+}
+
+.menu h1 {
+  font-family: "grad", Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: -2px;
+  color: white;
+  margin-top: 2%;
+}
+
 .moblow {
   margin-top: 1%;
   letter-spacing: 1px;
@@ -40,13 +53,10 @@
   }
 
   .menu h1 {
-    font-family: "grad", Helvetica, sans-serif;
-    font-weight: 700;
-    color: #1db458;
-  }
-
-    #name {
-    width: 50px;
+    font-family: "grad", serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: white;
   }
 }
 
