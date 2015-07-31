@@ -100,7 +100,7 @@
   background-color: #ffffff;
 }
 
-#header h2 {
+#header {
   text-align: left;
   color: #1db458;
   margin-top: 5%;
@@ -155,7 +155,6 @@
 
 .workphoto {
   width: 100%;
-  vertical-align:super;
 }
 
 @media (max-width: 700px) {
