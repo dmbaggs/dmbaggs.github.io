@@ -123,6 +123,36 @@
   margin-top: 3%;
 }
 
+.sampleinfo {
+  border: 1px solid black;
+  height: 200px;
+  width: 300px;
+  display: inline-block;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+
+.sampleinfo h1 {
+  font-family: 'Roboto', Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+  color: black;
+}
+
+.sampleinfo h2 {
+  font-family: 'Roboto', Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: black;
+}
+
+.sampleinfo p {
+  font-family: 'Roboto', Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  color: #1db458;
+}
+
 .workphoto {
   width: 100%;
   vertical-align:super;
