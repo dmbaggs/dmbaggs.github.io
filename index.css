@@ -179,6 +179,11 @@
 @media (max-width: 700px) {
   .footer {
     display: block;
+    height: 25px;
+  }
+
+  #copyright {
+    margin-top: 0.5%;
   }
 
   #footwrap {
