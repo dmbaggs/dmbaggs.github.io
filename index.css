@@ -39,14 +39,14 @@
     height: 65px;
   }
 
-  #name {
-    width: 50px;
-  }
-
-  #name h1 {
+  .menu h1 {
     font-family: "Roboto", Helvetica, sans-serif;
     font-weight: 700;
     color: #1db458;
+  }
+
+    #name {
+    width: 50px;
   }
 }
 
