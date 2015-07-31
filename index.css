@@ -123,29 +123,6 @@
   margin-top: 3%;
 }
 
-.sampleinfo {
-  border: 1px solid black;
-  height: 200px;
-  width: 200px;
-  display: inline-block;
-  margin-left: 5%;
-  margin-top: 3%;
-}
-
-.sampleinfo h1 {
-  font-family: 'Roboto', Helvetica, sans-serif;
-  font-weight: 700;
-  font-size: 25px;
-  color: black;
-}
-
-.sampleinfo p {
-  font-family: 'Roboto', Helvetica, sans-serif;
-  font-weight: 300;
-  font-size: 18px;
-  color: #1db458;
-}
-
 .workphoto {
   width: 100%;
 }
