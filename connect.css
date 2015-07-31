@@ -39,11 +39,12 @@
   }
 }
 
+#logo {
+  height: 50px;
+}
+
 #name {
-  font-size: 18px;
-  color: black;
-  font-family: 'Oswald', Helvetica, serif;
-  font-weight: 300;
+  width: 100%;
 }
 
 /* END MENU */
