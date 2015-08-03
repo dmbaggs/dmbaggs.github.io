@@ -7,10 +7,24 @@
 .menucontain {
   padding-top: 1%;
   text-align: center;
-  font-size: 18px;
-  font-family: 'Roboto', Helvetica, serif;
-  font-weight: 300;
-  color: black;
+  font-size: 16px;
+  font-family: 'proxima-nova', Helvetica, serif;
+  font-weight: 100;
+  color: white;
+}
+
+#logo {
+  width:auto;
+  margin-left: 7%; 
+}
+
+.menu h1 {
+  font-family: "grad", Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: -1px;
+  color: white;
+  margin-top: 2%;
 }
 
 .moblow {
@@ -33,19 +47,21 @@
   color: #ffffff;
 }
 
+
 @media handheld,screen and (max-width: 768px) {
   .menu {
     height: 65px;
   }
+
+  .menu h1 {
+    font-family: "grad", serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: white;
+  }
 }
 
-#logo {
-  width: 115px;
-}
 
-#name {
-  width: 100%;
-}
 
 /* END MENU */
 
