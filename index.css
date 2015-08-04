@@ -60,8 +60,6 @@
   }
 }
 
-
-
 /* END MENU */
 
 .bigphoto {
@@ -118,8 +116,8 @@
   color: #1db458;
   margin-top: 5%;
   margin-left: 10%;
-  font-family: 'proxima-nova', Helvetica, sans-serif;
-  font-weight: 100;
+  font-family: "grad", serif;
+  font-weight: 400;
   font-size: 50px;
   letter-spacing: 1px;
 }
@@ -144,6 +142,8 @@
 
 @media (max-width: 700px) {
   #resume h2 {
+    font-family: "grad", serif;
+    font-weight: 400;
     font-size: 25px;
     margin-left: 10%;
   }
