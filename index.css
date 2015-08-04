@@ -146,11 +146,13 @@
 @media (max-width: 700px) {
   #resume h2 {
     font-size: 25px;
+    margin-left: 10%;
   }
 
   .sample {
     width: 100px;
     height: 100px;
+    margin-left: 10%;
   }  
 }
 
