@@ -99,11 +99,14 @@
 
 @media (max-width: 700px) {
   .jumbo {
+    margin-top: 15%;
+    font-family: "grad", serif;
     font-size: 25px;
   }
 
   .jumbo h1 {
-    font-size: 35px;
+    font-family: "grad", serif;
+    font-size: 40px;
   }
 }
 
