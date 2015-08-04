@@ -52,6 +52,10 @@
     height: 65px;
   }
 
+  #logo {
+    margin-left: 0%;
+  }
+
   .menu h1 {
     font-family: "grad", serif;
     font-weight: 400;
