@@ -101,7 +101,7 @@
   .jumbo {
     margin-top: 25%;
     font-family: "grad", serif;
-    font-size: 30px;
+    font-size: 27px;
   }
 
   .jumbo h1 {
@@ -144,6 +144,10 @@
 }
 
 @media (max-width: 700px) {
+  #resume h2 {
+    font-size: 25px;
+  }
+
   .sample {
     width: 100px;
     height: 100px;
