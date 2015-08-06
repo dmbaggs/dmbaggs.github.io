@@ -52,13 +52,18 @@
     height: 65px;
   }
 
+  #logo {
+    margin-left: 0%;
+  }
+
   .menu h1 {
     font-family: "grad", serif;
-    font-weight: 400;
+    font-weight: 700;
     font-size: 25px;
     color: white;
   }
 }
+
 
 /* END MENU */
 
