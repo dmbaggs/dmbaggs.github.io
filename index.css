@@ -49,7 +49,7 @@
 
 @media handheld,screen and (max-width: 768px) {
   .menu {
-    height: 65px;
+    height: 75px;
   }
 
   #logo {
@@ -61,6 +61,10 @@
     font-weight: 700;
     font-size: 25px;
     color: white;
+  }
+
+  .moblow {
+    margin-top: -1%;
   }
 }
 
