@@ -275,6 +275,10 @@
     height: 400px
   }
 
+  #intro {
+    width: 90%;
+  }
+
   #abouttext p {
     font-size: 12px;
   }
