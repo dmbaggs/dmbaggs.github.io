@@ -229,7 +229,7 @@
 #aboutphoto {
   height: 400px;
   width: 400px;
-  margin-top: 5%;
+  margin-top: 7%;
 }
 
 #headshot {
@@ -240,11 +240,11 @@
 #abouttext {
   height: 500px;
   width: 500px;
-  margin-top: 5%;
+  margin-top: 4%;
 }
 
 #abouttext h1 {
-  font-size: 50px;
+  font-size: 40px;
   font-family: "grad", serif;
   letter-spacing: -1px;
   font-weight: 700;
@@ -252,7 +252,7 @@
 }
 
 #abouttext p {
-  font-size: 20px;
+  font-size: 16px;
   font-family: "proxima-nova", sans-serif;
   font-weight: 100;
   letter-spacing: 1px;
