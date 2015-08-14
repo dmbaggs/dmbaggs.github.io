@@ -237,7 +237,6 @@
 }
 
 #headshot {
-  margin-left: 50%;
   width: 100%;
 }
 
@@ -273,6 +272,9 @@
     width: 225px;
   }
 
+  #headshot {
+     margin-left: 50%;
+  }
   #abouttext {
     width: 90%;
     margin-left: 5%;
