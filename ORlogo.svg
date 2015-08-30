@@ -12,13 +12,13 @@
 </font>
 
 	<g id="Layer_2_1_">
-	<rect width="200" height="200"/>
+	<rect fill="#1DB458" width="200" height="200"/>
 </g>
 <g id="Layer_1_1_">
 	<g id="Layer_2">
 		<rect x="12" y="58" fill="none" width="200" height="103"/>
 		
-			<text transform="matrix(1 0 0 1 12 141.2197)" fill="#FFFFFF" font-family="'GothamHTF-Bold'" font-size="114" letter-spacing="-6">O</text>
+			<text transform="matrix(1 0 0 1 12 141.2197)" fill="#FFFFFF" font-family="'GothamHTF-Bold'" font-size="114" letter-spacing="-5">O</text>
 		<text transform="matrix(1 0 0 1 100.5 141.2197)" fill="#FFFFFF" font-family="'GothamHTF-Bold'" font-size="114">R</text>
 	</g>
 </g>
